@@ -5,9 +5,9 @@ Version test !
 [Infos]
 
 Pour lancer le programme sur linux :
-g++ -c main.cpp
-g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
-./sfml-app
+g++ -c main.cpp\n
+g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system\n
+./sfml-app\n
 
 
 Copyright © 2018
